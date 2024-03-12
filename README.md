@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vu23032007
+- 👋 Hi, I’m David Duong
 - 👀 I’m interested in playing games, soccer, and coding 
 - 🌱 I’m currently learning CSC2, Maths, Physics, English
 - 📫 How to reach me teach me about codes
